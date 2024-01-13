@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="left"> Welcome! 👋🏾</h2>
 
-Hi, I'm a Data Scientist graduate student and analytics professional with expertise in Data Visualization, Machine Learning, and Statistics.
+Hi, I'm a Data Scientist graduate student and research professional with expertise in Data Visualization, Machine Learning, and Statistics.
 
 <h3 align="left"> Projects 💻 </h3>
 
