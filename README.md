@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <h2 align="left"> Welcome! 👋🏾</h2>
 
-Hi, I'm a Data Scientist graduate student and research professional with expertise in Data Visualization, Machine Learning, and Statistics.
+Hi, I'm a data scientist, graduate student, and research professional with expertise in data visualization, machine learning, and statistics.
 
 <!--
 <h3 align="left"> Projects 💻 </h3>
 -->
 
-You can view some of my projects at my [portfolio site](https://mason.gmu.edu/~fshaikh4/portfolio.html).
+You can view some of my recent academic projects at my [portfolio site](https://mason.gmu.edu/~fshaikh4/portfolio.html).
 
 <!--
 <h3 align="left">Connect with me 🔗 </h3>
